@@ -1,3 +1,3 @@
 <img src='agumon.gif' />
-<img src='eth.gif' />
+<img width="5%" height="5%" src='eth.gif' />
 
