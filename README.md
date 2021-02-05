@@ -1,8 +1,5 @@
- <span>
-    <img width="20%" height="20%" src='eth.gif' />
-    <img src='agumon.gif' />
-    <img width="20%" height="20%" src='eth.gif' />
-</span>
+<img height="50%" width="50%" src='agumon.gif' />
+
 
 
   
