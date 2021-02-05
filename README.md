@@ -1,4 +1,4 @@
-<img height="50%" width="50%" src='agumon.gif' />
+<img height="100%" width="100%" src='agumon.gif' />
 
 
 
